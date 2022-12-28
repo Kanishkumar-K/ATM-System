@@ -1,5 +1,6 @@
 # LICET-ATM-System
-ATM system using Python Tkinter GUI with MYSQL database 
+ATM system using Python Tkinter GUI with MYSQL database.
+
 This has been done as a part of DBMS Mini Project.
 Sample images:
 
